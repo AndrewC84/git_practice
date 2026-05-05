@@ -20,3 +20,7 @@ Learning Git and GitHub for the first time!
 - VS Code provides a visual interface for Git operations
 
 ## Contributors
+
+# Testing Branch Protection
+
+This change should be blocked by branch protection!
