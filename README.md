@@ -18,3 +18,5 @@ Learning Git and GitHub for the first time!
 ## Development Environment
 - Using Visual Studio Code for Git integration
 - VS Code provides a visual interface for Git operations
+
+## Update for lab 2.3 reasons
