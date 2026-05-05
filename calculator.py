@@ -32,6 +32,9 @@ def divide(a, b):
 
 def power(a, b):
     return a ** b
+def percentage(value, percent):
+    """Calculate percentage of a value"""
+    return (value * percent) / 100
 
 # also a comment
 # Critical fix
